@@ -1,0 +1,4 @@
+Emi = 'mi novio'
+Pao = ' es Emi'
+Amor = Emi + Pao
+print (Amor)
